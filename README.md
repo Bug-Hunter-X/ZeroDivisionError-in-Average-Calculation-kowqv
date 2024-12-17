@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: ZeroDivisionError.  The `bug.py` file contains a function that incorrectly handles an empty input list, leading to a division by zero. The `bugSolution.py` provides a corrected version with error handling.
